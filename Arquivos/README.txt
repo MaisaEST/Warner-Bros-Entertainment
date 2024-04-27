@@ -1,0 +1,1 @@
+Insira nessa pasta todos os arquivos compartilhados com cliente, alocados, etc. Contrato, proposta, arquivos enviados pelo cliente, tudo que possa ser passível de consulta em alguma momento. NOMEIE os arquivos com o nomes que auxilem a consulta.

@@ -1,0 +1,1 @@
+Salvem os resultados de suas análises, com necessário, nesta pasta( tabelas, gráficos, etc). Se o produto de suas análise forem diversos arquivos, crie uma subpasta dentro desta pasta, e nomeie com seu nome, inserindo nela os arquivos gerados em suas análises.
